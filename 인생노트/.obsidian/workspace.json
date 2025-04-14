@@ -1,0 +1,353 @@
+{
+  "main": {
+    "id": "9d2c472da105f4b6",
+    "type": "split",
+    "children": [
+      {
+        "id": "166ad1822ddbfab7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "425cd4faf10fe734",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "e1bdde492cef0c6d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend Roadmap"
+            }
+          },
+          {
+            "id": "505066e11abeb191",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend Roadmap"
+            }
+          },
+          {
+            "id": "336bca025ea95af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend Roadmap"
+            }
+          },
+          {
+            "id": "2c802e77e7ba28b2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend Roadmap"
+            }
+          },
+          {
+            "id": "ea9053bff8732b18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend Roadmap"
+            }
+          },
+          {
+            "id": "c11f32e951dc63af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Pick a Language.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Pick a Language"
+            }
+          },
+          {
+            "id": "2db6f26fe44f7eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend Roadmap"
+            }
+          },
+          {
+            "id": "c8af6aab78730af7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend Roadmap"
+            }
+          },
+          {
+            "id": "e97d76577571976c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Learn about APIs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learn about APIs"
+            }
+          },
+          {
+            "id": "6ebdb7ac12c48b81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/GrahpQL.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GrahpQL"
+            }
+          },
+          {
+            "id": "26560da696461923",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "855403d6f1c030d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Backend Roadmap"
+            }
+          }
+        ],
+        "currentTab": 12
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "29e8f0c1ae0d9b23",
+    "type": "split",
+    "children": [
+      {
+        "id": "70c66f5830930d09",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9b787b0447621ed1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "42436896044ce914",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "8844c50eb62cb808",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "65c0bc07734c3ee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fcb0dfb95522860",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a4a39f659c64067",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backend Roadmap 의 백링크"
+            }
+          },
+          {
+            "id": "3a6dbf1490bb914c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Backend Roadmap 의 나가는 링크"
+            }
+          },
+          {
+            "id": "9e95585d5a8f2897",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "ba6edd4fbd9682ab",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Backend/Backend Roadmap.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Backend Roadmap 의 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "855403d6f1c030d9",
+  "lastOpenFiles": [
+    "프리랜서/경비처리.md",
+    "Backend/JavaScript.md",
+    "프리랜서",
+    "옵시디언 사용방법.md",
+    "Backend/GrahpQL.md",
+    "Backend/Learn about APIs.md",
+    "Backend/Backend Roadmap.md",
+    "Backend/image",
+    "Backend/image/backend.pdf",
+    "Backend/Version Control Systems.md",
+    "Backend",
+    "backend 1.pdf",
+    "Backend/Pick a Language.md",
+    "Backend/How does the internet work?.md",
+    "Backend/Internet.md",
+    "환영합니다!.md",
+    "무제.canvas",
+    "2025-04-12.md"
+  ]
+}
